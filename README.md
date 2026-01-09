@@ -13,9 +13,9 @@ The complete technical report for this project including abstract, background, m
 - Performance evaluation and comparison
 
 ## Files
-- `v1.m` – model training and pipeline
-- `v1eval.m` – model evaluation and metrics
-- `v1parametertuning.m` – hyperparameter tuning
+- `src/v1.m` – model training and pipeline
+- `src/v1eval.m` – model evaluation and metrics
+- `src/v1parametertuning.m` – hyperparameter tuning
 - `data/heart.csv` – clinical dataset
 
 ## Tools
