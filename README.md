@@ -4,7 +4,7 @@ Applied bioengineering machine learning study investigating classical logistic r
 ## Full Technical Report
 The complete technical report for this project including abstract, background, methods, architecture, tuning, results, and discussion is available here:
 
-[Logistic Regression vs Artificial Neural Networks for Heart Disease Prediction](report/ANN vs Log Reg Report.pdf)
+[Logistic Regression vs Artificial Neural Networks for Heart Disease Prediction](report/ANN-vs-Log-Reg-Report.pdf)
 
 ## Methods
 - Logistic Regression (baseline model)
